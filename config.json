@@ -1,13 +1,13 @@
 {
 	"head": {
-		"title": "",
-		"description": "",
+		"title": "以七",
+		"description": "以七为书，以蛊为墨",
 		"favicon": "https://cdn.jsdelivr.net/gh/ELSTHub/PublicServiceCDN@main/blog/favicon.ico"
 	},
 	"intro": {
 		"title": "HELLO, TRAVELER",
 		"subtitle": "I AM A FRONT-END DEVELOPER",
-		"enter": "enter",
+		"enter": "PRESS START",
 		"supportAuthor": false,
 		"background": true
 	},
