@@ -1,44 +1,48 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
-		"favicon": "favicon.ico"
+		"title": "",
+		"description": "",
+		"favicon": "https://cdn.jsdelivr.net/gh/ELSTHub/PublicServiceCDN@main/blog/favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
+		"title": "HELLO, TRAVELER",
+		"subtitle": "I AM A FRONT-END DEVELOPER",
 		"enter": "enter",
-		"supportAuthor": true,
+		"supportAuthor": false,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
-		"signature": "Code & Input & Output",
+		"name": "LUPINUS",
+		"signature": "Never like those youth-days, anyway.",
 		"avatar": {
-			"link": "assets/avatar.jpg",
+			"link": "https://cdn.jsdelivr.net/gh/ELSTHub/PublicServiceCDN@main/blog/pictureBed/avatar.jpg",
 			"height": "100",
 			"width": "100"
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
-				"icon": "bokeyuan",
-				"text": "Blog"
+				"href": "https://blog.ccpu.cc",
+				"icon": "boke",
+				"text": "Blog",
+				"target": "_blank"
 			},
 			"second": {
-				"href": "about/",
+				"href": "https://blog.ccpu.cc/about",
 				"icon": "xiaolian",
-				"text": "About"
+				"text": "About",
+				"target": "_blank"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
-				"icon": "email",
-				"text": "Email"
+				"href": "mailto:i@ccpu.cc",
+				"icon": "youjian",
+				"text": "Email",
+				"target": "_blank"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
-				"icon": "github",
-				"text": "Github"
+				"href": "https://monitor.ccpu.cc/status/main",
+				"icon": "zhuangtai",
+				"text": "Monitor",
+				"target": "_blank"
 			}
 		}
 	}
